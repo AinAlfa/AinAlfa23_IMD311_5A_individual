@@ -1,0 +1,132 @@
+h1
+   {
+     color: rgb(73, 11, 49);
+   }
+
+body
+  { 
+    background-color:rgb(197, 161, 116);
+  }
+
+ a 
+  {
+     text-decoration: none;   
+     padding-right: 48px;
+     font-family: impact;
+     font-size: 18pt;
+  }
+ 
+ a:hover 
+    {
+        color: antiquewhite;
+        background-color: rgb(212, 131, 131);
+    }
+
+ .logo
+     { 
+         width: 30%;
+         background-color: brown;
+         height: 150px;
+         float: left;
+     }
+
+ .menu 
+    {
+         width: 70%;
+         background-color: rgb(165, 142, 202);
+         height: 200px;
+         float:left;
+    }
+
+ .slider 
+    {
+         width: 100%;
+         background-color: chocolate;
+         height: 400px;
+         float: left;
+    }
+
+ .box1 
+    {
+         width: 25%;
+         background-color: gray;
+         height: 200px;
+         float: left;
+    }
+
+ .box2 
+    {
+         width: 25%;
+         background-color: deeppink;
+         height: 200px;
+         float: left;
+    }
+
+ .box3 
+   {  
+         width: 25%;
+         background-color: darksalmon;
+         height: 200px;
+         float: left;
+   }
+
+ .box4 
+   {
+         width: 25%;
+         background-color: burlywood;
+         height: 200px;
+         float: left;
+   }
+
+ .section1 
+   { 
+         width: 50%;
+         background-color: rgb(250, 125, 202);
+         height: 200px;
+         float: left;
+   }
+
+ .section2 
+   { 
+         width: 50%;
+         background-color: rgb(41, 2, 21);
+         height: 200px;
+         float: left;
+   }
+
+
+ table, tr, td, th
+        {
+            border: 1px solid black;
+            border-collapse: collapse;
+        }
+ table
+        {
+            width: 500px;
+        }        
+
+ td
+        {
+            padding: 5px;
+        }
+
+ th
+        {
+            background-color: black;
+            color: aliceblue;
+        }
+    
+ tr
+        {
+            background-color: honeydew;
+        }
+
+ tr:nth-child(odd)
+        {
+            background-color: lightyellow;
+        }
+
+ tr:hover
+        {
+            background-color: aquamarine;
+        }
